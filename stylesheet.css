@@ -1,7 +1,16 @@
+.container {
+	width: 20%;
+	height: auto;
+	background-color: mediumslateblue;
+	border-radius: 5px;
+	padding: 5px;
+	padding-top: 0px;
+}
+
 .text {
 	font-family: serif;
-	font-size: 1em;
+	font-size: 1.5em;
 	color: white;
-	border: 5px ridge mediumspringgreen;
-	background-color: mediumslateblue;
+	/*border: 5px ridge mediumspringgreen;
+	background-color: mediumslateblue;*/
 }
