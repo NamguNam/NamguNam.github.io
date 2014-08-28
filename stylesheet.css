@@ -1,3 +1,10 @@
+h1 {
+	font-family: sans-serif;
+	
+
+
+}
+
 .container {
 	width: 20%;
 	height: auto;
@@ -8,7 +15,7 @@
 }
 
 .text {
-	font-family: serif;
+	font-family: sans-serif;
 	font-size: 1.5em;
 	color: white;
 	/*border: 5px ridge mediumspringgreen;
